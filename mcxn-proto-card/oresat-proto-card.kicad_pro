@@ -39,9 +39,9 @@
         "other_text_thickness": 0.1,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 1.02,
+          "height": 1.55,
+          "width": 1.55
         },
         "silk_line_width": 0.127,
         "silk_text_italic": false,
@@ -77,58 +77,6 @@
         }
       ],
       "drc_exclusions": [
-        [
-          "courtyards_overlap|132195000|150471125|df741e74-4ca1-421c-be04-08bd74fb037a|e27c75d8-b9d3-428e-9114-627394137c30",
-          ""
-        ],
-        [
-          "hole_clearance|168910000|65900000|1adc5d7c-893a-4813-9973-b8fe5c7e18d4|1fd6841f-5641-4408-8fa0-2f9dce80a58d",
-          ""
-        ],
-        [
-          "hole_clearance|168910000|65900000|9cfcb3e3-d34b-4255-a197-d18e61c15515|1fd6841f-5641-4408-8fa0-2f9dce80a58d",
-          ""
-        ],
-        [
-          "hole_clearance|172090000|65900000|204d9e45-cbdf-4918-8890-744c066c72bf|601ecd81-a3a0-49f9-8f2d-cb7822c1d2d8",
-          ""
-        ],
-        [
-          "hole_clearance|172090000|65900000|b40906b9-3f57-4521-b0cf-c9601d33a497|601ecd81-a3a0-49f9-8f2d-cb7822c1d2d8",
-          ""
-        ],
-        [
-          "hole_clearance|174910000|65900000|040e7b16-ffbd-45ac-826c-1b8c0ad80f9a|2f93231a-3929-401d-8a35-e6bbbd79e406",
-          ""
-        ],
-        [
-          "hole_clearance|174910000|65900000|e0db8a58-0f55-4f4e-96e9-5a9cd2c565b1|2f93231a-3929-401d-8a35-e6bbbd79e406",
-          ""
-        ],
-        [
-          "hole_clearance|178090000|65900000|07b14844-36f8-4a4d-9adf-5674e163f315|c66a6a90-68b6-45d1-a9f9-331456ba3ab8",
-          ""
-        ],
-        [
-          "hole_clearance|178090000|65900000|a8328a4a-b1cf-4643-8754-be5114b9a69e|c66a6a90-68b6-45d1-a9f9-331456ba3ab8",
-          ""
-        ],
-        [
-          "hole_clearance|180910000|65900000|6672753e-9b4e-493c-b3de-93d6cc2c8a4d|1f8cad3b-e4ef-4e75-9db6-1bf27a7cb069",
-          ""
-        ],
-        [
-          "hole_clearance|180910000|65900000|e47a4e31-cca8-4683-9fbc-8306b021d41e|1f8cad3b-e4ef-4e75-9db6-1bf27a7cb069",
-          ""
-        ],
-        [
-          "hole_clearance|184090000|65900000|3fe337d3-0c75-46cd-889b-277d5496a2dc|b664bd63-1605-4ad2-8e3b-e478253b423e",
-          ""
-        ],
-        [
-          "hole_clearance|184090000|65900000|914e3c1c-61f9-4861-b840-206ac42dd92d|b664bd63-1605-4ad2-8e3b-e478253b423e",
-          ""
-        ],
         [
           "silk_overlap|154145743|80636488|3d09cc6c-6c95-4ff7-b2e6-a49b7ff7332e|48604123-5f5d-4eb6-9eec-a3d0a792d8ce",
           ""
@@ -873,6 +821,42 @@
           "label": "Value_1",
           "name": "Value_1",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Part Number",
+          "name": "Mouser Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Price/Stock",
+          "name": "Mouser Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MFR_NAME",
+          "name": "MFR_NAME",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Part_Number",
+          "name": "Manufacturer_Part_Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Height",
+          "name": "Height",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Name",
+          "name": "Manufacturer_Name",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -931,7 +915,7 @@
         "uuid": "04d32576-d084-475b-9eac-d7f3fd9579d7"
       }
     ],
-    "used_designators": "TP6,J3,#VBUSP1,#PWR46,#PWR51",
+    "used_designators": "TP5-6,TP11,TP17-20,TP22,TP32,TP52-54,TP58-61,TP78-79,TP87,FB2,J2-3,J10-12,J14-15,R10-12,R16,R22,R25,#GND80,#VBUSP1,#VBUSP5-6,#VBUSP8,#PWR5-6,#PWR23,#PWR40,#PWR46,#PWR48-49,#PWR51-58,#PWR61-86,D5,C13-15,C32-39,C54-61,L4,U4,U9,Y3",
     "variants": []
   },
   "sheets": [
