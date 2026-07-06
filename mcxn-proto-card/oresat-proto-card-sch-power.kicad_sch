@@ -17580,7 +17580,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/molex/0436500201/268994"
 			(at 205.74 218.44 0)
 			(hide yes)
 			(show_name no)

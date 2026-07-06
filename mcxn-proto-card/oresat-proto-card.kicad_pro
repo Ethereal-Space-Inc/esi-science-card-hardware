@@ -39,15 +39,15 @@
         "other_text_thickness": 0.1,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.02,
-          "height": 1.55,
-          "width": 1.55
+          "drill": 0.635,
+          "height": 0.9652,
+          "width": 1.9304
         },
         "silk_line_width": 0.127,
         "silk_text_italic": false,
         "silk_text_size_h": 0.5,
         "silk_text_size_v": 0.5,
-        "silk_text_thickness": 0.127,
+        "silk_text_thickness": 0.125,
         "silk_text_upright": false,
         "zones": {
           "border_display_style": 0,
@@ -61,7 +61,7 @@
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
           "min_clearance": 0.2,
-          "min_island_area": 10.0,
+          "min_island_area": 9.99999999996,
           "min_thickness": 0.127,
           "pad_connection": 1,
           "remove_islands": 1,
@@ -96,7 +96,7 @@
         "connection_width": "warning",
         "copper_edge_clearance": "error",
         "copper_sliver": "warning",
-        "courtyards_overlap": "error",
+        "courtyards_overlap": "ignore",
         "creepage": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
