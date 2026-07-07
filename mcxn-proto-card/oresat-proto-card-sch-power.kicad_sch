@@ -4992,7 +4992,7 @@
 		)
 		(uuid "03e2ec7d-45a0-44a3-a883-ff3dd676ec0c")
 	)
-	(text "Feedback settings trips at 295m mA"
+	(text "Feedback settings trips at 985mA"
 		(exclude_from_sim no)
 		(at 299.212 53.848 0)
 		(effects
@@ -23085,7 +23085,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "100m"
+		(property "Value" "30m"
 			(at 268.478 42.926 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23118,7 +23118,7 @@
 				)
 			)
 		)
-		(property "Description" "100 mOhms ±1% 0.5W, 1/2W Chip Resistor 1206 (3216 Metric) Current Sense Thick Film"
+		(property "Description" "RES 0.03 OHM 1% 1/2W 1206"
 			(at 267.97 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -23141,7 +23141,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "DPN" "CSR1206FKR100CT-ND"
+		(property "DPN" "CSR1206FK30L0TR-ND"
 			(at 267.97 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -23165,7 +23165,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "MPN" "CSR1206FKR100"
+		(property "MPN" "CSR1206FK30L0"
 			(at 267.97 44.45 0)
 			(hide yes)
 			(show_name no)
