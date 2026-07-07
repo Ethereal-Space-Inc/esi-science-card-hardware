@@ -84,6 +84,10 @@
         [
           "silk_overlap|155594624|80275767|3d09cc6c-6c95-4ff7-b2e6-a49b7ff7332e|79d29d73-5dcc-4a56-9d9f-b3e1862cc88f",
           ""
+        ],
+        [
+          "unconnected_items|137900000|86700000|F.Cu|4|949ce610-d350-47d2-9af8-b5e66fd72510|f0868baf-97b2-463d-95fa-8bd3b323e692",
+          ""
         ]
       ],
       "meta": {
